@@ -10,7 +10,7 @@ The model takes **images of single words or text lines (multiple words) as input
 
 Developed for **Galgotias University** 7th Semester End-term Project.
 
-**Developed by:** Aamir Reza & Faishal Sakil
+**Developed by:** Aamir Reza & Faishal Sakil <br>
 In the supervision of **Dr. J.N. Singh**
 
 ![htr](./doc/htr.png)
