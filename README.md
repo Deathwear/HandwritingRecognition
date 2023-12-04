@@ -9,6 +9,7 @@ The model takes **images of single words or text lines (multiple words) as input
 3/4 of the words from the validation-set are correctly recognized, and the character error rate is around 10%.
 
 Developed for **Galgotias University** 7th Semester End-term Project.
+
 **Developed by:** Aamir Reza & Faishal Sakil
 In the supervision of **Dr. J.N. Singh**
 
