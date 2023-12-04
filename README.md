@@ -1,6 +1,6 @@
 # Handwritten Text Recognition with TensorFlow
 
-* **Update: a [web demo](https://deathwear.github.io/Handwriting/text_reader.html) is available**
+* **Click on this link for a [web demo](https://deathwear.github.io/Handwriting/text_reader.html) !!!**
 
 
 
