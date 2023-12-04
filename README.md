@@ -1,15 +1,16 @@
 # Handwritten Text Recognition with TensorFlow
 
-* **Update 2023/2: a [web demo](https://githubharald.github.io/text_reader.html) is available**
-* **Update 2023/1: see [HTRPipeline](https://github.com/githubharald/HTRPipeline) for a package to read full pages**
-* **Update 2021/2: recognize text on line level (multiple words)**
-* **Update 2021/1: more robust model, faster dataloader, word beam search decoder also available for Windows**
-* **Update 2020: code is compatible with TF2**
+* **Update: a [web demo](https://deathwear.github.io/Handwriting/text_reader.html) is available**
 
 
-Handwritten Text Recognition (HTR) system implemented with TensorFlow (TF) and trained on the IAM off-line HTR dataset.
+
+Handwritten Text Recognition (HTR) system implemented with Machine-Learning Support Vector Machine and trained on the IAM off-line HTR dataset.
 The model takes **images of single words or text lines (multiple words) as input** and **outputs the recognized text**.
 3/4 of the words from the validation-set are correctly recognized, and the character error rate is around 10%.
+
+Developed for **Galgotias University** 7th Semester End-term Project.
+**Developed by:** Aamir Reza & Faishal Sakil
+In the supervision of **Dr. J.N. Singh**
 
 ![htr](./doc/htr.png)
 
