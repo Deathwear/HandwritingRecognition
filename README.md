@@ -8,8 +8,7 @@ Handwritten Text Recognition (HTR) system implemented with Machine-Learning Supp
 The model takes **images of single words or text lines (multiple words) as input** and **outputs the recognized text**.
 3/4 of the words from the validation-set are correctly recognized, and the character error rate is around 10%.
 
-Developed for **Galgotias University** 7th Semester End-term Project.
-
+Developed for **Galgotias University** 7th Semester End-term Project.<br>
 **Developed by:** Aamir Reza & Faishal Sakil <br>
 In the supervision of **Dr. J.N. Singh**
 
