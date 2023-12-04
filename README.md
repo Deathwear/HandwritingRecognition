@@ -1,4 +1,4 @@
-# Handwritten Text Recognition with TensorFlow
+# Handwritten Text Recognition with Machine Learning Using Support Vector Machine.
 
 * **Click on this link for a [web demo](https://deathwear.github.io/Handwriting/text_reader.html) !!!**
 
